@@ -1,7 +1,7 @@
 # Import YouTube by NWDigital
 YouTube Import Plugin for WordPress
 
-=== Import YouTube by Northwoods Digital ===
+## Import YouTube by Northwoods Digital
 Contributors: mathewemoore
 Tags: youtube, videos, import youtube, youtube importer, import video, video importer, youtube to post, google api, youtube api
 Donate link: https://northwoodsdigital.com/donate
@@ -14,12 +14,12 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Import YouTube videos as WordPress custom post types with ease! An advanced plugin to create posts by importing YouTube videos as posts or video post type via the YouTube API v3.
 
-== Description ==
+## Description
 **Import YouTube by Northwoods Digital** allows you to create new posts by searching YouTube videos along with many options such as: show youtube comments, show facebook comments plugin, show video stats, show author, show date, shortcodes, category widget, import categories, import tags and many other options.
 
 [youtube https://www.youtube.com/watch?v=unLS-fdvTRM]
 
-== Features ==
+## Features
 1. **Search YouTube** - search right inside your WordPress Admin Dashboard!
 2. **Search Filters** - search by YouTube Username, YouTube Channel ID or just search all of YouTube!
 3. **Video Previews** - preview YouTube videos before importing without leaving your Admin Dashboard
@@ -37,21 +37,21 @@ Import YouTube videos as WordPress custom post types with ease! An advanced plug
 15. Default post status: publish, draft, pending
 16. Facebook comments integration
 
-== Installation ==
+## Installation
 Upload the plugin
 Go to your admin page Settings > YouTube Videos
 Here you can access the posts, categories, tags and settings pages.
 
 That's it. You can now import YouTube videos as posts.
 
-== Screenshots ==
+## Screenshots
 1. Import Page
 2. Settings Page
 3. YouTube Posts Page
 
-== Changelog ==
+## Changelog
 
-= 1.1.0 (14 April 2018) =
+### 1.1.0 (14 April 2018)
 
 *Changes:*
 
@@ -65,31 +65,31 @@ That's it. You can now import YouTube videos as posts.
  * Fixed timezone issue for importing videos
  * General code cleanup throughout
 
-= 1.0.4 (11 April 2018) =
+### 1.0.4 (11 April 2018)
 
 *Bugs:*
 
  * Fixed categories and tags not showing up in the YouTube Videos Posts Screen.
 
-= 1.0.3 (11 April 2018) =
+### 1.0.3 (11 April 2018)
 
 *Changes:*
 
  * Added new column to the YouTube Videos Posts Screen showing last update time and date for use with the update videos bulk action.
 
-= 1.0.2 (8 April 2018) =
+### 1.0.2 (8 April 2018)
 
 *Bugs:*
 
  * Fixed duplicate thumbnail media when importing previously imported videos and using bulk updater.
 
-= 1.0.1 (6 April 2018) =
+## 1.0.1 (6 April 2018)
 
 *Changes:*
 
  * First public release
 
-== Upgrade Notice ==
+## Upgrade Notice
 Version 1.0.1
 
  * First public release
