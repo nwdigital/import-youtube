@@ -1,0 +1,50 @@
+.yih4_widget_content, .sp_yih4_description, .yih4-comments {
+  margin-bottom:35px;
+}
+
+/* Responsive YouTube Embeds */
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0; overflow:
+  hidden;
+  max-width: 100%;
+  }
+
+.embed-container iframe, .embed-container object, .embed-container embed {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/*  STATS SECTIONS START */
+.section {
+	clear: both;
+	padding: 0px 0px 0px 10px;
+	margin: 0px 0px 25px 0px;
+  border:1px solid lightgrey;
+}
+
+/*  COLUMN SETUP  */
+.col {
+	display: block;
+	float:left;
+	margin: 1% 0 1% 2.6%;
+}
+.col:first-child { margin-left: 0; }
+
+/*  GROUPING  */
+.group:before,
+.group:after { content:""; display:table; }
+.group:after { clear:both;}
+.group { zoom:1; /* For IE 6/7 */ }
+
+
+
+/*  GO FULL WIDTH BELOW 480 PIXELS */
+@media only screen and (max-width: 480px) {
+	.col {  margin: 1% 0 1% 0%; }
+	.span_1_of_5, .span_2_of_5, .span_3_of_5, .span_4_of_5, .span_5_of_5 { width: 100%; }
+}
+/*  STATS SECTIONS END */

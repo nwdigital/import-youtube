@@ -1,0 +1,4 @@
+#dashboard_right_now a.yih4-video-count:before,
+#dashboard_right_now span.yih4-video-count:before {
+  content: "\f236";
+}
